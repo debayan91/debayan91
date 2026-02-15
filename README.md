@@ -21,7 +21,9 @@ I am a software developer and researcher primarily focused on **Computer Vision*
   <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/><br/>
+<br/>
+
+</div>
 
 ### Recent Work
 
@@ -37,22 +39,20 @@ I am a software developer and researcher primarily focused on **Computer Vision*
 
 - **Sonora** <br> Real-time e-commerce platform for high-end audio equipment.
 <br/>
-
-### Tech Stack
-
-<p align="center">
+<div align="center">
+<p width = "100%>
   <img src="https://img.shields.io/badge/java-black?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/python-black?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/c-black?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-black?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/sql-black?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&logoColor=white" />
-  <br/>
+
   <img src="https://img.shields.io/badge/spring-black?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/react-black?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <br/>
+
   <img src="https://img.shields.io/badge/docker-black?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/git-black?style=flat-square&logo=git&logoColor=white" />
@@ -60,13 +60,9 @@ I am a software developer and researcher primarily focused on **Computer Vision*
   <img src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=Firebase&logoColor=white" />
 </p>
 
-<br/>
-
-### Stats
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=debayan91&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=000000&hide_border=true" alt="streak graph" />
 
-
 </div>
+
 
 
