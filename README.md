@@ -23,15 +23,20 @@ I am a software developer and researcher primarily focused on **Computer Vision*
 
 <br/><br/>
 
+### Recent Work
 
+- **RainMark** &nbsp; [![Repo](https://img.shields.io/badge/-View_Repo-black?style=flat-square&logo=github&logoColor=white)](https://github.com/CV-Team-VIT/RainMark) <br> Computer Vision framework for perceptual rain-streak localization and evaluation.
 
-### Stats
+- *Building* **APEX** <br> Algorithmic trading platform handling real-time crypto market data
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=debayan91&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=000000&hide_border=true" alt="streak graph" />
+- **DB-BERT** <br> Transformer model for SQL complexity classification and execution prediction on the Spider dataset.
 
+- *Building* **Code Mixed Reasoning** <br> Synthetic Chain-of-Thought fine-tuning methodology for Small Language Models.
+
+- **RainTRN** <br> Deep learning architecture for single-image rain removal.
+
+- **Sonora** <br> Real-time e-commerce platform for high-end audio equipment.
 <br/>
-
-
 
 ### Tech Stack
 
@@ -57,20 +62,11 @@ I am a software developer and researcher primarily focused on **Computer Vision*
 
 <br/>
 
+### Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=debayan91&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=000000&hide_border=true" alt="streak graph" />
 
 
 </div>
 
-### Recent Work
 
-- **RainMark** &nbsp; [![Repo](https://img.shields.io/badge/-View_Repo-black?style=flat-square&logo=github&logoColor=white)](https://github.com/CV-Team-VIT/RainMark) <br> Computer Vision framework for perceptual rain-streak localization and evaluation.
-
-- *Building* **APEX** <br> Algorithmic trading platform handling real-time crypto market data
-
-- **DB-BERT** <br> Transformer model for SQL complexity classification and execution prediction on the Spider dataset.
-
-- *Building* **Code Mixed Reasoning** <br> Synthetic Chain-of-Thought fine-tuning methodology for Small Language Models.
-
-- **RainTRN** <br> Deep learning architecture for single-image rain removal.
-
-- **Sonora** <br> Real-time e-commerce platform for high-end audio equipment.
