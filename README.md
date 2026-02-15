@@ -65,7 +65,7 @@ I am a software developer and researcher primarily focused on **Computer Vision*
 
 - **RainMark** &nbsp; [![Repo](https://img.shields.io/badge/-View_Repo-black?style=flat-square&logo=github&logoColor=white)](https://github.com/CV-Team-VIT/RainMark) <br> Computer Vision framework for perceptual rain-streak localization and evaluation.
 
-- *Building* **APEX** <br> High-frequency algorithmic trading platform using microservices, deterministic order flows, and ACID-compliant ledgers.
+- *Building* **APEX** <br> Algorithmic trading platform handling real-time crypto market data
 
 - **DB-BERT** <br> Transformer model for SQL complexity classification and execution prediction on the Spider dataset.
 
