@@ -60,8 +60,7 @@ I am a software developer and researcher primarily focused on **Computer Vision*
   <img src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=Firebase&logoColor=white" />
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=debayan91&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=000000&hide_border=true" alt="streak graph" />
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=debayan91&hide_border=true&hide_current_streak=true" alt="GitHub Streak" /></a>
 </div>
 
 
