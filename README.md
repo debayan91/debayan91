@@ -14,10 +14,10 @@ I am a software developer and researcher primarily focused on **Computer Vision*
 <br/>
 
 <!-- Social Links -->
-<a href="https://linkedin.com/in/your-linkedin-handle">
+<a href="https://www.linkedin.com/in/dutta-debayan/">
   <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:debayan.web@gmail.com">
   <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
