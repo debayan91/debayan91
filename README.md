@@ -27,7 +27,7 @@ I am a software developer and researcher primarily focused on **Computer Vision*
 
 ### Recent Work
 
-- **RainMark** &nbsp; [![Repo](https://img.shields.io/badge/-View_Repo-black?style=flat-square&logo=github&logoColor=white)](https://github.com/CV-Team-VIT/RainMark) <br> Computer Vision framework for perceptual rain-streak localization and evaluation.
+- **RainMark** &nbsp;  <br> Computer Vision framework for perceptual rain-streak detection and evaluation.
 
 - *Building* **APEX** <br> Algorithmic trading platform handling real-time crypto market data
 
