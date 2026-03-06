@@ -27,7 +27,7 @@ I am a software developer and researcher primarily focused on **Computer Vision*
 
 ### Recent Work
 
-- **RainMark** &nbsp;  <br> Computer Vision framework for perceptual rain-streak detection and evaluation.
+- *Building* **RainMark** &nbsp;  <br> Computer Vision framework for perceptual rain-streak detection and evaluation.
 
 - *Building* **APEX** <br> Algorithmic trading platform handling real-time crypto market data
 
@@ -35,7 +35,7 @@ I am a software developer and researcher primarily focused on **Computer Vision*
 
 - *Building* **Code Mixed Reasoning** <br> Synthetic Chain-of-Thought fine-tuning methodology for Small Language Models.
 
-- **RainTRN** <br> Deep learning architecture for single-image rain removal.
+- **RainTRN** <br> Deep learning architecture for video rain removal.
 
 - **Sonora** <br> Real-time e-commerce platform for high-end audio equipment.
 <br/>
