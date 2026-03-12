@@ -65,7 +65,7 @@ I am a software developer and researcher primarily focused on **Computer Vision*
 
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=debayan91&theme=graywhite&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=debayan91&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
 </div>
 
