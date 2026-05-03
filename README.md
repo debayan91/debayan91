@@ -27,8 +27,6 @@ I am a software developer and researcher primarily focused on **Computer Vision*
 
 ### Recent Work
 
-- *Building* **RainMark** &nbsp;  <br> Computer Vision framework for perceptual rain-streak detection and evaluation.
-
 - *Building* **APEX** <br> Algorithmic trading platform handling real-time crypto market data
 
 - **DB-BERT** <br> Transformer model for SQL complexity classification and execution prediction on the Spider dataset.
