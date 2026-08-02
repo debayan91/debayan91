@@ -38,6 +38,10 @@ Published patent introducing perceptually grounded metrics for quantitative rain
 
 A framework for accurate rain generation over images and videos ensuring spatiotemporal consistency for training DL models. Patent selected for publication.
 
+<p align="center">
+  <img src="./metrics.plugin.isocalendar.svg" alt="GitHub Isometric Calendar">
+</p>
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
