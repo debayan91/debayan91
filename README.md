@@ -12,23 +12,19 @@
 
 ## Experience
 
-**MetLife** · *Intern - Platform Engineering*
-
-Built enterprise software across data engineering, business intelligence, and mobile security. Designed a scheduled Python pipeline that reduced shareholder report retrieval time from **15–20 minutes to 7 seconds**, built Power BI reporting pipelines using advanced DAX and ETL workflows, and developed a reusable Mobile Security SDK used across more than twenty enterprise mobile applications.
-
-
+**MetLife** · *Intern Tech*
 
 **Indian Institute of Technology Delhi** · *Research Intern*
 
-Worked in the Neurocomputing Lab under Prof. Tapan K. Gandhi on deep learning for video restoration. Designed transformer-based architectures for video deraining, developed temporal learning pipelines, and contributed to research achieving state-of-the-art restoration quality on real-world datasets.
-
-
-
 ## Some of my work
+
+**Turtle**
+
+Built my own harness from scratch in py. Still a work in progress
 
 **Heron**
 
-A distributed algorithmic trading platform built using Java, Spring Boot, Kafka, PostgreSQL, and Docker. Designed around event-driven architecture with real-time market data ingestion, deterministic order execution, transactional wallet management, and concurrent order processing. 
+A crypto trasactional backend written in Java using Spring Boot, Kafka, PostgreSQL, and Docker. Designed around event-driven architecture with real-time market data ingestion, deterministic order execution, transactional wallet management, and concurrent order processing. 
 
 **RainMark**
 
@@ -36,7 +32,7 @@ Published patent introducing perceptually grounded metrics for quantitative rain
 
 **AtmosRain**
 
-A framework for accurate rain generation over images and videos ensuring spatiotemporal consistency for training DL models. Patent selected for publication.
+A framework for accurate rain generation over images and videos ensuring spatiotemporal consistency for training DL models. Patent published
 
 <p align="center">
   <img src="./metrics.plugin.isocalendar.svg" alt="GitHub Isometric Calendar">
